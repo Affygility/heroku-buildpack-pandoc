@@ -17,7 +17,7 @@ CACHE_DIR=${2:-}
 ENV_DIR=${3:-}
 
 # pandoc versions
-RELEASE_VERSION="1.19.2.1"
+RELEASE_VERSION="3.6.3"
 RELEASE_URL="https://github.com/jgm/pandoc/releases/download/${RELEASE_VERSION}/pandoc-${RELEASE_VERSION}-1-amd64.deb"
 
 # working directories
